@@ -196,6 +196,94 @@ SetTextColor 0 240 190
 PlayEffect Cyan Temp
 
 #--------------------------
+# Monk Crafting Bases
+#--------------------------
+
+## Helmet
+Show
+BaseType "Expert Feathered Tiara" "Expert Tribal Mask" "Expert Chain Tiara" "Expert Veiled Mask"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Body
+Show
+BaseType "Expert Studded Vest" "Expert Scalper's Jacket" "Expert Wayfarer Jacket" "Expert Waxed Jacket"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Gloves
+Show
+BaseType "Expert Spiral Wraps" "Expert Linen Wraps"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Boots
+Show
+BaseType "Expert Hunting Shoes" "Expert Threaded Shoes"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Quarterstaff
+Show
+BaseType "Expert Gothic Quarterstaff" "Expert Crackling Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Slicing Quarterstaff"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Belt
+Show
+BaseType "Golden Obi" "Fine Belt" "Wide Belt" "Heavy Belt" "Utility Belt"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+#--------------------------
+# Rings and Amulets
+#--------------------------
+
+## Ring
+Show
+BaseType "Amethyst Ring" "Prismatic Ring" "Unset Ring" "Topaz Ring" "Sapphire Ring" "Ruby Ring"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+## Amulet
+Show
+BaseType "Lunar Amulet" "Bloodstone Amulet" "Gold Amulet" "Stellar Amulet"
+SetFontSize 40
+SetTextColor 233 200 200
+SetBorderColor 233 200 200
+PlayAlertSound 3 100
+PlayEffect Red
+MinimapIcon 1 Red Diamond
+
+#--------------------------
 # Scroll of Wisdom High Level Hiding
 #--------------------------
 
